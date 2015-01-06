@@ -1,26 +1,33 @@
-# Dependencies
-markdown:            redcarpet
-highlighter:         pygments
-
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink: /:year/:month/:day/:title/
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             /
-paginate:            5
+title: "Aşkın Gedik"
+tagline: "askn@askngdk:~$"
+description: "Aşkın'ın Web Günlüğü"
+url: http://askn.github.com
+baseurl: /
+paginate: 13
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Aşkın Gedik
+  url:               https://twitter.com/askngdk
+  email:             askngdk@gmail.com
 
 # Custom vars
 version:             1.0.0
+
+facebook: "askngdk"
+linkedin: "askngdk"
+twitter: "askngdk"
+github_u: 'askn'
+instagram: 'askngdk'
+googleplus: "101664352366673735839"
+
+disqus_short_name: 'askngdk'
+google_analytics_tracking_id: UA-34813647-1
+email: "askngdk@gmail.com"

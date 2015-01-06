@@ -1,0 +1,29 @@
+<div class="container clearfix">
+  <a href="https://twitter.com/askngdk" class="twitter-follow">
+    Follow @askngdk on Twitter
+  </a>
+
+  <div class="pull-right">
+    {% if site.instagram %}
+    <a href="https://instagram.com/{{ site.instagram }}" title="Follow on instagram" target="_blank"><i class="icon-instagramm"></i></a>
+    {% endif %}
+
+    {% if site.github_u %}
+    <a href="https://github.com/{{ site.github_u }}" title="Follow on Github" target="_blank"><i class="icon-github"></i></a>
+    {% endif %}
+
+    {% if site.googleplus %}
+    <a href="https://plus.google.com/u/0/{{ site.googleplus }}" title="Follow on Google Plus"  target="_blank"><i class="icon-gplus-squarede"></i></a>
+    {% endif %}
+
+    {% if site.twitter %}
+    <a href="https://twitter.com/{{ site.twitter }}" title="Follow on Twitter"  target="_blank"><i class="icon-twitter-squared"></i></a>
+    {% endif %}
+
+    {% if site.facebook %}
+    <a href="http://facebook.com/{{ site.facebook }}"  title="Like on Facebook"  target="_blank"><i class="icon-facebook-squared"></i></a>
+    {% endif %}
+
+    <a href="/atom.xml" title="RSS Feed">    <i class="icon-rss-squared"></i>  </a>
+  </div>
+</div>
