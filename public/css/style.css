@@ -526,8 +526,8 @@ input[type="button"].btn-block {
   font-size: 14px;
   text-transform: uppercase;
   color: #999;
-  margin-top: -60px;
-  margin-bottom: 40px;
+  /*margin-top: -60px;*/
+  /*margin-bottom: 40px;*/
 }
 
 .nav-item {
@@ -542,22 +542,57 @@ input[type="button"].btn-block {
   background-size: cover;
   background-position: center center;
   z-index: 1;
-  height: 150px;
+  height: 300px;
   margin-bottom: 0rem;
-  box-shadow: inset 0 0 15px rgba(0,0,0,.5);
+  /*box-shadow: inset 0 0 15px rgba(0,0,0,.5);*/
 }
 .masthead {
-  /* padding-top:    1rem; */
-  padding-bottom: 1rem;
-  margin: 55px 0 25px 0 !important;
+  padding-top: 0px !important;
+  /*padding-bottom: 1rem;*/
+  padding-bottom: 0px !important;
+
+  margin: 0px 0 0px 0 !important;
   border-bottom: none !important;
+}
+
+.masthead-title {
+  text-align: center;
+  padding-top: 120px;
+  letter-spacing: 0px;
+}
+
+.masthead-title > a {
+  font-weight: bold;
+  text-align: center;
+  background: #F6DF6A;
+  background: #40c4ff;
+  background: rgba(0,0,0,0.6);
+  color: white;
+  padding: 10px;
+  font-size: 1.5em;
+  text-decoration: none;
+  margin-bottom: .5rem;
+  text-rendering: optimizeLegibility;
 }
 
 .masthead > .container {
   padding-bottom: 25px;
+  padding: 10px;
+  text-align: center;
+}
 
+.masthead > .container > a {
+  font-size: 1.3em;
+  padding: 7px;
+  text-decoration: none
+}
+
+.masthead > .container > hr {
+  width: 33%;
+  margin: 7px auto;
+  border-top: 2px solid #eeeeee
 }
 
 .footer {
-  margin-top: 25px;
+  margin-top: 45px;
 }

@@ -2,8 +2,10 @@
 layout: default
 ---
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date when">{{ page.date | date_to_string }}</span>
+  <!-- <h1 class="post-title">{{ page.title }}</h1> -->
+  <div class="clearfix">
+    <span class="post-date when pull-right ">{{ page.date | date_to_string }}</span>
+  </div>
   {{ content }}
 </div>
 

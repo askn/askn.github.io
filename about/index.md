@@ -10,7 +10,7 @@ Ayrıca <a href="http://usefulideas.net">usefulideas</a>'ta ruby on rails develo
 </p><p>
 Blogumda teknik konular ile ilgili kısa paylaşımlarda bulunacak ve
 bazı fikirlerimi, hayatımda ki önemli şeyleri ufak karalamalar
-şeklinde elimden geldiğince sizlere aktaracağım.
+şeklinde elimden geldiğince sizlere aktaracağım. (Yapamadı...)
 </p>
 
 Beni [Twitter'da](https://twitter.com/askngdk),

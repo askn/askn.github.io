@@ -12,17 +12,18 @@
   content to avoid any CSS collisions with our real content. -->
   <div class="wrap">
     <div class="masthead">
-      <div class="container clearfix">
-
-        <h2 class="masthead-title pull-left">
-          <a href="/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
-        </h2>
-
-        <a class="pull-right nav-item" href="/about">Hakkımda</a>
-      </div>
 
       <div class="hero">
+        <div class="masthead-title ">
+          <a href="/" title="Home">{{ page.title }}</a>
+          <!-- <small>{{ site.tagline }}</small> -->
+        </div>
+      </div>
+
+      <div class="container clearfix">
+        <a href="/" class="nav-item" >Anasayfa</a>
+        <a class="nav-item" href="/about">Hakkımda</a>
+        <hr />
       </div>
 
     </div>
