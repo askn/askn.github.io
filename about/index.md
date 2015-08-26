@@ -3,8 +3,7 @@ layout: page
 title: "Olaylar Olaylar"
 ---
 
-<p>Merhabalar, ben Aşkın. İstanbul'da yaşıyorum. Şuan Ondokuz Mayıs Üniversitesi Bilgisayar
-Mühendisliği bölümünde eğitim görmekteyim.
+<p>Merhabalar, ben Aşkın. İstanbul'da yaşıyorum.
 Genel olarak yazılım geliştirme ile ilgili konularla yakından ilgileniyorum.
 Ayrıca <a href="http://usefulideas.net">usefulideas</a>'ta ruby on rails developer olarak çalışıyorum.
 </p><p>
