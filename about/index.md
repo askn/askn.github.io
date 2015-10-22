@@ -5,7 +5,7 @@ title: "Olaylar Olaylar"
 
 <p>Merhabalar, ben Aşkın. İstanbul'da yaşıyorum.
 Genel olarak yazılım geliştirme ile ilgili konularla yakından ilgileniyorum.
-Ayrıca <a href="http://usefulideas.net">usefulideas</a>'ta ruby on rails developer olarak çalışıyorum.
+Ayrıca <a href="http://www.protel.com.tr/">Protel Teknoloji Çözümleri</a>nde ruby on rails developer olarak çalışıyorum.
 </p><p>
 Blogumda teknik konular ile ilgili kısa paylaşımlarda bulunacak ve
 bazı fikirlerimi, hayatımda ki önemli şeyleri ufak karalamalar
