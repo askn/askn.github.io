@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rails: Model Bağlantılarını Öğrenme"
+title: "Rails: Model ilişkilerini öğrenme"
 date: 2015-10-25 18:48
 comments: true
 ---
