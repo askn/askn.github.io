@@ -101,7 +101,7 @@ helper.time_ago_in_words 3.days.ago
 
 Çok iyi lan!
 
-Aslında bugün bu konuyu yazmayacaktım, farklı bir konu yazacaktım ama uykum var. Yarına artık. (Meraklandırma işlemi tamamlandı...)
+Aslında bugün bu konuyu yazmayacaktım, farklı bir konu yazacaktım ama uykum var. Yarına artık. <small>(Meraklandırma işlemi tamamlandı...)</small>
 
 ### Kaynaklar
 - [Source Location](http://ruby-doc.org/core-2.2.2/Method.html#method-i-source_location)

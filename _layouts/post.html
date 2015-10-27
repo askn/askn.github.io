@@ -9,6 +9,13 @@ layout: default
   {{ content }}
 </div>
 
+  <center>
+    <a class="twitter-share-button"
+       href="https://twitter.com/intent/tweet?text={{ page.title }} - {{ site.url }}{{ page.url }}"
+       data-size="large" data-count="none">
+      Yazıyı Tweet At</a>
+  </center>
+
 <div class="comment">
 <div id="disqus_thread" aria-live="polite">
   {% include disqus.html %}
@@ -31,3 +38,20 @@ layout: default
   </ul>
 </div>
 -->
+
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+  t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
