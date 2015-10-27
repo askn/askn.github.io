@@ -522,6 +522,16 @@ input[type="button"].btn-block {
   font-weight: 400;
   color: #444;
 }
+
+.post > h4 {
+  margin: 50px -30px 20px -27px;
+  padding: 12px 30px;
+  font-family: 'News Cycle', sans-serif;
+  font-weight: bold;
+  border-left: 3px solid #f66a81;
+  color: #444;
+}
+
 .when {
   font-size: 14px;
   text-transform: uppercase;
