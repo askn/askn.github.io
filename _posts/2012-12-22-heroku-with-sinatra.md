@@ -37,7 +37,7 @@ source 'http://rubygems.org'
 gem 'sinatra'
 {% endhighlight %}
 
-Bu iki belgeyide oluşturduktan sonra gönül rahatlığı ile deploy edebilirsiniz
+Bu iki dosyayı oluşturduktan sonra gönül rahatlığı ile deploy edebilirsiniz.
 `=P`
 
 

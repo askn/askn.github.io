@@ -5,8 +5,6 @@ date: 2015-10-29 22:42
 comments: true
 ---
 
-Her gün blog yazmak çok zormuş. Şaka şaka bi zorluğu yok girince alışıyor insan, dokunmuyor yazdıkça yazası geliyor. Zaten kısa kısa yazıyorum. İstek konu kabul edilir.
-
 #### Yöntem 1
 
 {% highlight ruby %}

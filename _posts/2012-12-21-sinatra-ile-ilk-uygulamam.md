@@ -57,6 +57,7 @@ Dünya!' yazısını görmemiz mümkün. Bu kadar basit.
 Benim ilk sinatra [uygulamam](http://aykun.herokuapp.com).
 Uygulamada ki amaç kategorilere göre gruplanmış kelimelerin bulunduğu bir [yaml](http://askingedik.net/2012/12/04/yaml-for-ruby/) dosyasından seçilen koşullara göre rastgele kelimeleri birleştirmek.
 Kaynak kodları [github](http://github.com/askn/aykun)'tan inceleyebilirsiniz.
+
 ###   Kaynak
 
 - [Sinatra](http://www.sinatrarb.com/intro.html)

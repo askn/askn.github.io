@@ -35,7 +35,7 @@ Tüm ayarlar bitti bu kadar. `:D`
 
 ### Herokuda uygulama oluşturma
 
-Github kullanların yakından bildiği üzere `git` çok güçlü bir sürüm takip sistemidir ve heroku uygulamaları dağıtmak için
+Github kullananların yakından bildiği üzere `git` çok güçlü bir sürüm takip sistemidir ve heroku uygulamaları dağıtmak için
 `git`'i kullanır. Proje dizinimizdeyken!
 
     $ git init
@@ -44,7 +44,7 @@ Github kullanların yakından bildiği üzere `git` çok güçlü bir sürüm ta
     $ git commit -am "ilk"
     $ heroku create my_app
 
-Eğer uygulamamız github'ta da mevcutsa sadece
+Eğer uygulamamız github'ta mevcutsa sadece
 
     $ heroku create my_app
 

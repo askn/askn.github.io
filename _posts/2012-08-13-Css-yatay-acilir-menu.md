@@ -88,5 +88,3 @@ Css kodlarımız:
     clear: both;
 }
 {% endhighlight %}
-
-Kodların tamamına <a title="buradan" href="https://github.com/askn/web/tree/master/menu" target="_blank">buradan</a> ulaşabilirsiniz.

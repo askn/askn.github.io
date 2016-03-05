@@ -38,3 +38,6 @@ ne_kadar[:arabada] #=> 5
 Söyleyeceklerim bu kadar.
 
 **not:** Evet, saydım.
+
+**not 2:** Ulan neyi sayacağım günden başka.
+

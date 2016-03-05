@@ -5,7 +5,7 @@ date: 2015-10-26 21:35
 comments: true
 ---
 
-Merhabalar, bugün sizlere içinde binlerce ibret olan diyemeyeceğim ama bir kaç ufak titreme yaşatacak bir şeyler anlatacağım. İşte bunlar hep sıkıntıdan. Neyse...
+Merhabalar, bugün sizlere içinde binlerce ibret olan diyemeyeceğim ama bir kaç ufak titreme yaşatacak bir şeyler anlatacağım.
 
 Rails ile bir blog uygulaması yazdığımızı hayal edelim. Elimizde **Post** ve **Comment** şeklinde modellerimiz olsun. Biz de anasayfada yazıların başlıklarını ve yorum sayılarını listelemek isteyelim.
 

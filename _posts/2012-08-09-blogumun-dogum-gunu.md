@@ -10,12 +10,8 @@ keywords: "Blog Yazmanın Önemi"
 ---
 
 Evet blogumu açalı tam bir yıl oldu. Geçen sene bugün babamın sponsorluğunda almıştım domainimi ve hostumu.
-\:D Nasıl heyecanlıydım o gün
-
-<!-- more -->
-
-benimde blogum olacak diye. Blog açmamda ki amaç
-teknik konularda öğrendiklerim ile ilgili birşeyler karalamak, bazı konular
+\:D Nasıl heyecanlıydım o gün benimde blogum olacak diye. Blog açmamdaki amaç
+teknik konularda öğrendiklerim ile ilgili bir şeyler karalamak, bazı konular
 hakkında ufak paylaşımlarda bulunmaktı ama ne yazık ki pek başarılı olamadım gibi duruyor en
 azından ilk yılımda. Öğrenme kısmında sıkıntı olmadı fakat yazmak
 çok meşakkatli bir iş. Oysaki yazmayı severdim ben, hikaye filan

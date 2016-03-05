@@ -606,3 +606,19 @@ input[type="button"].btn-block {
 .footer {
   margin-top: 45px;
 }
+
+.navigation {
+    font-size: 14px;
+    display: block;
+    width: auto;
+    text-transform: capitalize;
+    margin: 1em 0;
+}
+
+.navigation .prev {
+    float: left;
+}
+
+.navigation .next {
+    float: right;
+}
