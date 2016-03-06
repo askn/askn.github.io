@@ -617,8 +617,44 @@ input[type="button"].btn-block {
 
 .navigation .prev {
     float: left;
+    border-bottom: 3px solid #f66a81;
+    padding: 3px 5px;
+    display: block;
 }
 
 .navigation .next {
+    float: right;
+    border-bottom: 3px solid #f66a81;
+    padding: 3px 5px;
+    display: block;
+}
+
+#post-meta {
+    padding: 30px 0;
+    margin: 30px 0;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    font-size: 13px;
+}
+#post-meta img.avatar {
+    height: 36px;
+    width: 36px;
+    float: left;
+    border-radius: 50%;
+    margin: 0px;
+    margin-top: 3px;
+    margin-right: 20px;
+    box-shadow: 0 0 0 3px #fff,0 0 0 4px #eee;
+}
+
+#post-meta div span {
+    display: block;
+}
+#post-meta div {
+    margin: 0 25px 0 0;
+    float: left;
+}
+
+#sharing {
     float: right;
 }
