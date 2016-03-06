@@ -495,7 +495,7 @@ input[type="button"].btn-block {
 }
 
 .post > h1, .page > h1 {
-  font-family: 'News Cycle', sans-serif;
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Open Sans', sans-serif;
   font-weight: bold;
   font-size: 34px;
   margin: 40px -30px 30px -30px;
@@ -508,7 +508,7 @@ input[type="button"].btn-block {
   margin: 50px -30px 20px -30px;
   padding: 10px 30px 10px 25px;
   border-left: 5px solid #F6DF6A;
-  font-family: 'News Cycle', sans-serif;
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Open Sans', sans-serif;
   font-weight: bold;
   color: #444;
 }
@@ -516,7 +516,7 @@ input[type="button"].btn-block {
 .post > h3 {
   margin: 50px -30px 20px -27px;
   padding: 12px 30px;
-  font-family: 'News Cycle', sans-serif;
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Open Sans', sans-serif;
   font-weight: bold;
   border-left: 3px solid #F6DF6A;
   font-weight: 400;
@@ -526,7 +526,7 @@ input[type="button"].btn-block {
 .post > h4 {
   margin: 50px -30px 20px -27px;
   padding: 12px 30px;
-  font-family: 'News Cycle', sans-serif;
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Open Sans', sans-serif;
   font-weight: bold;
   border-left: 3px solid #f66a81;
   color: #444;
