@@ -50,7 +50,7 @@ body {
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.6;
 }
 @media (min-width: 38em) {
   html {
@@ -109,7 +109,7 @@ h4, h5, h6 {
 /* Body text */
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5em;
 }
 
 strong {
@@ -157,7 +157,7 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 85%;
+  font-size: 80%;
   color: #bf616a;
   background-color: #f9f9f9;
   border-radius: 3px;
