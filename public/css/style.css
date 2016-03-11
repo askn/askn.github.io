@@ -662,3 +662,7 @@ input[type="button"].btn-block {
 figure {
     margin: 0px;
 }
+
+html {
+    /* -webkit-font-smoothing: antialiased; */
+}
