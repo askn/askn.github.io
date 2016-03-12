@@ -40,12 +40,7 @@ body {
   overflow-x: hidden;
 }
 
-html {
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Open Sans', sans-serif;
-}
-
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Open Sans', sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
