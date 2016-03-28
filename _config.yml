@@ -29,3 +29,5 @@ googleplus: "101664352366673735839"
 disqus_short_name: 'askngdk'
 google_analytics_tracking_id: UA-34813647-1
 email: "askngdk@gmail.com"
+
+timezone: 'Europe/Istanbul'

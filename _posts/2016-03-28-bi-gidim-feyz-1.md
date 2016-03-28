@@ -68,3 +68,9 @@ temp.gsub(/.{1,2}/) { |s| s.capitalize }
 - [stackoverflow](http://stackoverflow.com/questions/19859282/check-if-a-string-contains-a-number)
 - [ilk örnek](http://solidfoundationwebdev.com/blog/posts/check-if-a-string-only-contains-a-number-in-ruby)
 - [codewars sorusu](http://www.codewars.com/kata/52b757663a95b11b3d00062d)
+
+<center>
+Feyz aldıysan paylaş diğerleri de feyzlensin!
+<blockquote class="twitter-tweet" data-lang="tr"><p lang="tr" dir="ltr">Bi gıdım feyz <a href="https://t.co/H5zFuqvdAE">https://t.co/H5zFuqvdAE</a> <a href="https://t.co/qV9QkMZmuC">pic.twitter.com/qV9QkMZmuC</a></p>&mdash; Aşkın Gedik (@askngdk) <a href="https://twitter.com/askngdk/status/714374146042511360">28 Mart 2016</a></blockquote>
+</center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
