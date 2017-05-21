@@ -14,16 +14,18 @@
     <div class="masthead">
 
       <div class="hero">
-        <div class="masthead-title ">
+        <div class="masthead-title">
           <a href="/" title="Home">{{ page.title }}</a>
-          <!-- <small>{{ site.tagline }}</small> -->
+            {% if page.date %}
+              <br />
+              <small>{{ page.date | date_to_string }}</small>
+            {% endif %}
         </div>
       </div>
 
       <div class="container clearfix">
         <a href="/" class="nav-item" >Anasayfa</a>
         <a class="nav-item" href="/about">Hakkımda</a>
-        <hr />
       </div>
 
     </div>

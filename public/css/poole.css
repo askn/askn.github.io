@@ -48,18 +48,19 @@ body {
 }
 
 html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 19px;
+    font-size: 20px;
   }
 }
 
 body {
-  color: #444;
-  background-color: #fefefe;
+  color: #515151;
+  background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -105,7 +106,7 @@ h4, h5, h6 {
 /* Body text */
 p {
   margin-top: 0;
-  margin-bottom: 1.5em;
+  margin-bottom: 1rem;
 }
 
 strong {
@@ -153,7 +154,7 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 80%;
+  font-size: 85%;
   color: #bf616a;
   background-color: #f9f9f9;
   border-radius: 3px;
@@ -329,7 +330,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  /* margin-bottom: 4em; */
+  margin-bottom: 4em;
 }
 
 /* Blog post or page title */

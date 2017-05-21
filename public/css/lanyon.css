@@ -40,7 +40,12 @@ body {
   overflow-x: hidden;
 }
 
+html {
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+}
+
 h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -94,7 +99,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
 }
-
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
@@ -144,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Open Sans', sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
