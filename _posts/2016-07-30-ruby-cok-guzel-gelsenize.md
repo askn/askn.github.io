@@ -44,7 +44,7 @@ Bu devasa iş bitirebilme yeteneğini hayal edin.
 
 ### Hızlı Sonuç Alma
 
-Benim gibi yaptığı işte direk sonuç görmeye odaklı biriyseniz hayat sizin için de çok zor olmalı.
+Benim gibi yaptığı işte direkt sonuç görmeye odaklı biriyseniz hayat sizin için de çok zor olmalı.
 Bu zorluğu bir nebze olsa da ruby/rails yazarken aşabilirsiniz. Neden mi ? Çünkü her şey çok kısa ve hızlıca çalışır hale getirilebiliyor.
 Çok esnek bir dil olduğu için bu çalışır mı acaba böyle olabilir mi diye yazdığınız kodlar bile çalışıyor. Daha ne olsun.
 Bir şeyi yapmanın bir çok yolu var, istediğinizi seçin ve at koşturun.

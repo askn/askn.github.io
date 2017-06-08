@@ -31,7 +31,7 @@ ActiveRecord'un Reflection modülünü kullanarak modellerin ilişkilerini nası
 ]
 {% endhighlight %}
 
-**klass** methodu ile direk bağlı olduğu modele erişebilirken, **class_name** ile ismini öğrenebiliriz ve **options** ile daha neler neler var.
+**klass** methodu ile direkt bağlı olduğu modele erişebilirken, **class_name** ile ismini öğrenebiliriz ve **options** ile daha neler neler var.
 
 {% highlight ruby %}
 2.2.1 :032 > Post.reflect_on_all_associations(:belongs_to).first.klass
