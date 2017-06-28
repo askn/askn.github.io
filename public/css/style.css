@@ -215,3 +215,29 @@ html {
     font-weight: 400;
     line-height: 1.7;
 }
+
+.graphql {
+  font-size: 0;
+  /*https://css-tricks.com/fighting-the-space-between-inline-block-elements/*/
+  position: relative;
+  left: -10%;
+  width: 120%;
+  background-color: #f9f9f9;
+  margin-bottom: 1rem;
+}
+.graphql > .highlight {
+  top: 0;
+  display: inline-grid;
+  width: 49%;
+  margin-bottom: 0;
+}
+.graphql > .highlight pre {
+  font-size: 13px;
+}
+.graphql > .highlight:last-child {
+  border-left: 1px solid #e0e0e0;
+  margin-left: -1px;
+}
+.graphql > .highlight:first-child {
+  border-right: 1px solid #e0e0e0;
+}
