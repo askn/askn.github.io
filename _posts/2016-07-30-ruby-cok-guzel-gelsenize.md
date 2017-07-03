@@ -67,7 +67,7 @@ Rails ve ruby felsefesini kazanmış biriyseniz diğer dillerde bile olsa kötü
 
 "Ama ruby yavaş yea" gibi cümleler görmüşsünüzdür. Bunlar bir takım uydurma laflardır :D Kime göre neye göre? 
 
-Türkiye'de ki hiçbir servis ve websitesi içinde ruby'nin olacağı bir çözümde scale edilemeyecek kadar yük almıyor.<small><a href="{{ site.baseurl }}public/gotum.html">Kaynak</a></small>
+Türkiye'de ki hiçbir servis ve websitesi içinde ruby'nin olacağı bir çözümde scale edilemeyecek kadar yük almıyor.<small><a href="{{ site.baseurl }}public/kaynak_gosterisi.html">Kaynak</a></small>
 
 Şimdilik söyleyeceklerim bu kadar.
 
