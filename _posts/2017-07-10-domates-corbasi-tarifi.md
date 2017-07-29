@@ -5,8 +5,6 @@ date: 2017-07-10 00:18
 comments: true
 ---
 
-{{ site.baseurl }}
-
 19 gün önce yazdığım bu yazıyı bir kaç rütuş ile şimdi yayınlıyorum. Şahsen okumanızı tavsiye etmem ama siz bilirsiniz.
 
 <center>***</center>
@@ -125,5 +123,5 @@ ağbii sen tek kişisin kimi yönetiyorsun/napıyorsun diyen de yok.
 > Kapatırken yazıma kendi yorumum
 
   <video width="480" controls="controls">
-  <source src="{{ site.baseurl }}public/haddini_bileceksin.mp4" type="video/mp4">
+  <source src="/public/haddini_bileceksin.mp4" type="video/mp4">
   </video>

@@ -16,7 +16,7 @@ Peki statik, dinamik, güçlü, zayıf tipli ne demek ?
 
 ### Statik Tip
 
-<img src="{{ site.baseurl }}public/images/static_type.jpg"  width="250" height="350">
+<img src="/public/images/static_type.jpg"  width="250" height="350">
 
 Java, Go ,C ve C++ statik tipli dillerdir. Statik tipli dillerde değer üreten herşeyin tipi belirtilmek
 zorundadır. Bu dillerde tip denetlemesi derleme zamanında yapılır.

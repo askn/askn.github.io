@@ -107,7 +107,7 @@ class Friend < ActiveRecord::Base
 end
 {% endhighlight %}
 
-<img align="right" src="{{ site.baseurl }}public/images/self.png" width="220px">
+<img align="right" src="/public/images/self.png" width="220px">
 Bu eklemeler sonrası artık bir arkadaşlık kurulduğunda iki taraflı oluşacak. Silindiğinde de iki taraflı silinecek. Bu aslında biraz takip sistemine benziyor.
 
 Facebook üzerinden konuşacak olursak, bir kişiyi takip edebilirsiniz, eğer o da sizi takip ederse arkadaş olursunuz. Şu anki haliyle ilerde böyle bir yapı da oldukça kolay bir şekilde kurulabilir.

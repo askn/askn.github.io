@@ -21,15 +21,15 @@ keywords: "java, servlet, tomcat, sunucu, kurma, kurulum, eclipse, "
 
 - Açılan pencerede `Server`'ı seçin ve `next`
 
-<img src="{{ site.baseurl }}public/images/tomcat-with-eclipse1.png" width="620px" />
+<img src="/public/images/tomcat-with-eclipse1.png" width="620px" />
 
 - `Tomcat`'in uygun versiyonunu seçin ve `next`
 
-<img src="{{ site.baseurl }}public/images/tomcat-with-eclipse2.png" width="620px" />
+<img src="/public/images/tomcat-with-eclipse2.png" width="620px" />
 
 - Tomcat'in bulunduğu dizini seçin.
 
-<img src="{{ site.baseurl }}public/images/tomcat-with-eclipse3.png" width="620px" />
+<img src="/public/images/tomcat-with-eclipse3.png" width="620px" />
 
 - <b>Finish</b>
 

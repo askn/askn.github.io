@@ -39,7 +39,7 @@ ActionPack için bir requestin yaşam döngüsü
 - Controller model ile etkileşimli çalışır. ( Genellikle CRUD işlemleri gerçekleştirilir. )
 - Yanıt(Response) yönlendirme veya render şeklinde tarayıcıya geri gönderilir.
 
-<img src="{{ site.baseurl }}public/images/action-pack-request-cycle.png" width="620px" />
+<img src="/public/images/action-pack-request-cycle.png" width="620px" />
 
 ### Kaynaklar
 

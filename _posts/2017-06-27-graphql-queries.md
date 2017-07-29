@@ -181,7 +181,7 @@ Her field'a alias verebilirsiniz. Yukarıda `adiSoyadi` örneğinde gördüğün
 
 ## Fragment
 
-<img align="right" src="{{ site.baseurl }}public/images/abuzer.jpg" width="110">
+<img align="right" src="/public/images/abuzer.jpg" width="110">
 
 Mesela yukarıdaki örnekte 3 kişinin datasına ulaştığım bir sorgu var. Sadece name alanına değil de bir çok alana ihtiyacım olduğunu varsayalım. Bu da demek oluyor ki aynı şeyi 3 kez tekrar edeceğiz.
 
@@ -280,7 +280,7 @@ Bu arada yukarıdaki örnekte *user_data* bir *operation name*. Anlamlı isimler
 
 Bu sorgunun request payload'ına inspect element üzerinden baktığımızda şöyle atıldığını görüyoruz.
 
-<img src="{{ site.baseurl }}public/images/graphql-request-payload.png">
+<img src="/public/images/graphql-request-payload.png">
 
 Yani sizde bunu curl gibi herhangi bir istemci kullanarak şu şekil atabilirsiniz.
 
@@ -438,7 +438,7 @@ User veya Organization tipinde dönerse çağrılacak fieldları blok içinde ya
 Bu anlattıklarımın tamamı client tarafından sorguların graphql ile yazılmış bir sisteme nasıl atılacağı ile alakalı idi.
 "*İyi de kardeşim bunun backend'i yok mu, bunca sorguyu nereye atacaklar?*" dediğinizi duyar gibiyim. Meraklanmayın, diğer blog yazılarımda (Ruby ile) backend tarafını da aktaracağım.
 
-<img src="{{ site.baseurl }}public/images/graphql-kapanis.png">
+<img src="/public/images/graphql-kapanis.png">
 <marquee><a href="https://twitter.com/meryemmekinci" alt="Görsel İçin Teşekkürler">Meryem Ekinci</a> ve <a href="https://twitter.com/saidozcan" alt="Görsel İçin Teşekkürler">Said Özcan'a</a> fotoğrafa yaptıkları katkılar için teşekkürler.</marquee>
 
 Bu yazının tamamını okuma zahmetinde bulunduysanız siz de GraphQL'in tadına baktınız demektir. Yazıların devamı gelene dek [şurada](https://goo.gl/M8YEYN) bekleyebilirsiniz.

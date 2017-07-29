@@ -15,6 +15,6 @@ keywords: "text editor Linux vim"
 
 <!-- more -->
 
-<img src="{{ site.baseurl }}public/images/Vim_Keymap.jpg" width="620px" />
+<img src="/public/images/Vim_Keymap.jpg" width="620px" />
 
 Not: Resmi yeni sekmede açarak daha ayrıntılı inceleyebilirsiniz.

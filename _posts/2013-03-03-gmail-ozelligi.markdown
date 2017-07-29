@@ -17,20 +17,20 @@ cevap verirken sadece seçili metni alıntılayabilirsiniz. Nasıl mı ?
 <!-- more -->
 
 
-<img src="{{ site.baseurl }}public/images/1.png" width="620px" />
+<img src="/public/images/1.png" width="620px" />
 
 Alıntılamak istediğimiz metni seçiyoruz.
 
-<img src="{{ site.baseurl }}public/images/2.png" width="620px" />
+<img src="/public/images/2.png" width="620px" />
 
 Yanıtla seçeneğine basıyoruz.
 
-<img src="{{ site.baseurl }}public/images/3.png" width="620px" />
+<img src="/public/images/3.png" width="620px" />
 
 Bu muazzam özelliği kullanmak için yapmanız gereken sadece Ayarlar/Labs/ Seçili
 Metni Alıntı olarak biçimlendir özelliğini etkinleştirmeniz.
 
-<img src="{{ site.baseurl }}public/images/gmail_labs.png" width="620px" />
+<img src="/public/images/gmail_labs.png" width="620px" />
 
 ### Kaynak
 

@@ -41,13 +41,13 @@ Vereceğiniz alias'lar ile API'den dönen json'ı şöyle bir formata dahi dön�
 Dönen cevap zorunuza mı gidiyor basın alias'ı.
 
 <center>
-<img src="{{ site.baseurl }}public/images/kemale_star_atan.png" />
+<img src="/public/images/kemale_star_atan.png" />
 </center>
 
 GraphQL, istediğiniz verileri getirmek için birden fazla REST isteğini tek bir sorgu ile değiştirmenize olanak sağlar. Örneğin twitter anasayfasını inceleyelim.
 
 <center>
-<img src="{{ site.baseurl }}public/images/twitter-graphql.png" />
+<img src="/public/images/twitter-graphql.png" />
 </center>
 
 - 1 - Profil bilginiz

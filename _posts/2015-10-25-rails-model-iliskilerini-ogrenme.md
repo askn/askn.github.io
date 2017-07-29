@@ -5,7 +5,7 @@ date: 2015-10-25 18:48
 comments: true
 ---
 
-<img align="right" src="{{ site.baseurl }}public/images/beyle.jpg" width="100px">
+<img align="right" src="/public/images/beyle.jpg" width="100px">
 
 ActiveRecord'un Reflection modülünü kullanarak modellerin ilişkilerini nasıl öğrenebileceğimizi (beyle) ve bir kaç method ile nasıl at koşturabileceğimizi anlatacağım.
 

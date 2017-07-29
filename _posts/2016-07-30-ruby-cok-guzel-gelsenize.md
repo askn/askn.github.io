@@ -18,7 +18,7 @@ Bir yazılım geliştirici olarak verilen işi, ortadaki problemi olabildiğince
 Yani ne kadar hızlı sonuç üretirsem o kadar hızlı bir şekilde insanlara, şirkete veya dünyaya her ne ise fayda sağlayabilir.
 
 <center>
-<img src="{{ site.baseurl }}public/images/delimidir.jpg" />
+<img src="/public/images/delimidir.jpg" />
 <small> Yazar burada ruby ve rails övmeye başlayacak!</small>
 </center>
 
@@ -67,7 +67,7 @@ Rails ve ruby felsefesini kazanmış biriyseniz diğer dillerde bile olsa kötü
 
 "Ama ruby yavaş yea" gibi cümleler görmüşsünüzdür. Bunlar bir takım uydurma laflardır :D Kime göre neye göre? 
 
-Türkiye'de ki hiçbir servis ve websitesi içinde ruby'nin olacağı bir çözümde scale edilemeyecek kadar yük almıyor.<small><a href="{{ site.baseurl }}public/kaynak_gosterisi.html">Kaynak</a></small>
+Türkiye'de ki hiçbir servis ve websitesi içinde ruby'nin olacağı bir çözümde scale edilemeyecek kadar yük almıyor.<small><a href="/public/kaynak_gosterisi.html">Kaynak</a></small>
 
 Şimdilik söyleyeceklerim bu kadar.
 

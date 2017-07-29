@@ -80,7 +80,7 @@ post.comments.length    # sorgu, yorumları belleğe yükler
 
 
 <center>
-<img src="{{ site.baseurl }}public/images/ibretalindi.gif">
+<img src="/public/images/ibretalindi.gif">
 </center>
 
 ### Kaynaklar
