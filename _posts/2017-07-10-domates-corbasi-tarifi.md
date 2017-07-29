@@ -6,6 +6,7 @@ comments: true
 ---
 
 {{ site.baseurl }}
+
 19 gün önce yazdığım bu yazıyı bir kaç rütuş ile şimdi yayınlıyorum. Şahsen okumanızı tavsiye etmem ama siz bilirsiniz.
 
 <center>***</center>
