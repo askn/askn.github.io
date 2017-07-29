@@ -8,7 +8,7 @@ title: "Aşkın Gedik"
 tagline: "askn@askngdk:~$"
 description: "Aşkın'ın Web Günlüğü"
 url: http://askingedik.net
-baseurl: /
+baseurl: "/"
 
 # About/contact
 author:
