@@ -13,7 +13,7 @@ keywords: "dizin düzenleme, Unix Linux Araçlar "
 Vidir bir metin düzenleyicisinde dizin içeriği düzenlemeye yarar. Satırları
 silerek dosyadan kurtulabilir, dosya veya dizinin ismi ile oynayabilirsiniz.
 
-Örnek bir kaç kullanım:
+Örnek birkaç kullanım:
 
 <!-- more -->
 

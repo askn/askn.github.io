@@ -15,7 +15,7 @@ insan dostu veri sıralama standardıdır."
 
 <!-- more -->
 
-Bir kaç basit yaml ve onun ruby karşılıkları.
+Birkaç basit yaml ve onun ruby karşılıkları.
 
 ### Liste
 
