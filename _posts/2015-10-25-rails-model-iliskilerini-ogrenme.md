@@ -7,7 +7,7 @@ comments: true
 
 <img align="right" src="/public/images/beyle.jpg" width="100px">
 
-ActiveRecord'un Reflection modülünü kullanarak modellerin ilişkilerini nasıl öğrenebileceğimizi (beyle) ve bir kaç method ile nasıl at koşturabileceğimizi anlatacağım.
+ActiveRecord'un Reflection modülünü kullanarak modellerin ilişkilerini nasıl öğrenebileceğimizi (beyle) ve birkaç method ile nasıl at koşturabileceğimizi anlatacağım.
 
 **reflections** methodu sayesinde bir modelin hash olarak tüm ilişkilerini görebiliriz.
 

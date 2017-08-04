@@ -5,7 +5,7 @@ date: 2015-10-27 21:51
 comments: true
 ---
 
-Bugün sizlere öğrenince ufkunuzu iki katına çıkaracak bir kaç minik ipucu göstereceğim.
+Bugün sizlere öğrenince ufkunuzu iki katına çıkaracak birkaç minik ipucu göstereceğim.
 
 #### Arama
 
@@ -50,7 +50,7 @@ helper
 foo = ActionView::Base.new # Aynı bok
 {% endhighlight %}
 
-Bir kaç örnekte göstereyim.
+Birkaç örnekte göstereyim.
 
 {% highlight ruby %}
 helper.link_to "Home", app.root_path

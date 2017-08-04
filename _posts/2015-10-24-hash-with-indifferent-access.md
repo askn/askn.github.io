@@ -6,7 +6,7 @@ comments: true
 ---
 
 572 gün aradan sonra gelen yazımla birlikte hepinize merhaba diyor ve kucaklıyorum sevgili okuyucular.
-Bugün sizlerle rails ile ilgili bir kaç ufak şey paylaşacağım.
+Bugün sizlerle rails ile ilgili birkaç ufak şey paylaşacağım.
 
 <!-- more -->
 

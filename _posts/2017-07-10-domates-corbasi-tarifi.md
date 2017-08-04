@@ -5,7 +5,7 @@ date: 2017-07-10 00:18
 comments: true
 ---
 
-19 gün önce yazdığım bu yazıyı bir kaç rütuş ile şimdi yayınlıyorum. Şahsen okumanızı tavsiye etmem ama siz bilirsiniz.
+19 gün önce yazdığım bu yazıyı birkaç rötuş ile şimdi yayınlıyorum. Şahsen okumanızı tavsiye etmem ama siz bilirsiniz.
 
 <center>***</center>
 
