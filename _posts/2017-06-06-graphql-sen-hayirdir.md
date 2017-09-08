@@ -107,7 +107,7 @@ Bunları diğer blog yazılarımda ayrıntılı aktaracağım. Şimdilik hoş, k
 
 GraphQL içinde bulunan şemanızdan otomatik oluşturulan introspection sayesinde hangi sorguların nasıl desteklendiğini kendisi dokümante ediyor. Örneğin: [Github API v4'ü](https://developer.github.com/v4/explorer/) deneyebileceğiniz graphiql editorünün sağ kısmındaki dokümanı inceleyebilirsiniz.
 
-Şu an github, shopify, facebook, coursera, yelp, protel(🙃) gibi bir çok şirket graphql kullanıyor ve destekliyor.
+Şu an github, shopify, facebook, coursera, yelp, protel(🙃) gibi birçok şirket graphql kullanıyor ve destekliyor.
 
 Kullanmanız için en önemli bir diğer sebep ise şu an oldukça HYPE bir teknoloji olması. Ortamlarda `ağğbii siz hala mı rest yazıyorsunuz? ya ne gada çağ dışısınız` diyebilirsiniz.
 

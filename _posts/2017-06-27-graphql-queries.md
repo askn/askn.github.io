@@ -183,7 +183,7 @@ Her field'a alias verebilirsiniz. Yukarıda `adiSoyadi` örneğinde gördüğün
 
 <img align="right" src="/public/images/abuzer.jpg" width="110">
 
-Mesela yukarıdaki örnekte 3 kişinin datasına ulaştığım bir sorgu var. Sadece name alanına değil de bir çok alana ihtiyacım olduğunu varsayalım. Bu da demek oluyor ki aynı şeyi 3 kez tekrar edeceğiz.
+Mesela yukarıdaki örnekte 3 kişinin datasına ulaştığım bir sorgu var. Sadece name alanına değil de birçok alana ihtiyacım olduğunu varsayalım. Bu da demek oluyor ki aynı şeyi 3 kez tekrar edeceğiz.
 
 Şaka Şaka
 

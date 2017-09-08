@@ -14,7 +14,7 @@ unix, yazılım"
 
 Linus Torvalds, henüz daha öğrenciyken Tanenbaum'un Minix'ini geliştirmeye başlıyor ve
 bir müddet sonra nette "Minix'te hangi özellikleri görmek isterdiniz ?" konu
-başlığı ile özgür bir işletim sistemi yaptığını duyuruyor. Cevap olarak bir çok
+başlığı ile özgür bir işletim sistemi yaptığını duyuruyor. Cevap olarak birçok
 öneri ile beraber yardım teklifi geliyor. Bir müddet sonra Linus kodlarınıda
 açarak herkesi ona katılmaları için çağırıyor. Eric Raymond ise bu açık yapı ile
 kapalı model yapısını katedral ve pazara benzeterek anlatıyor.

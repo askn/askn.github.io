@@ -28,7 +28,7 @@ HTTP etkileşimlerini kaydedip/kasete sarıp testleriniz esnasında hızlıca, a
 
 #### Kurulum
 
-Vcr gem'ini ve kullanacağınız http kütüphanesine ait gem'i Gemfile ekleyin ve kurun. webmock, fakeweb, faraday, httparty gibi bir çok aracı destekliyormuş vcr.
+Vcr gem'ini ve kullanacağınız http kütüphanesine ait gem'i Gemfile ekleyin ve kurun. webmock, fakeweb, faraday, httparty gibi birçok aracı destekliyormuş vcr.
 
 {% highlight ruby %}
 # Gemfile

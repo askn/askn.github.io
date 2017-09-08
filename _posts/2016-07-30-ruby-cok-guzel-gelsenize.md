@@ -36,7 +36,7 @@ Düşünsene şimdi günlerce uğraştığın şeylerin biri tarafından çocuk 
 
 Mert'in de <a href="http://mertbulan.com/2016/07/30/ruby-on-rails-ile-harikalar-diyari/">blog yazısında</a> bahsettiği gibi biz
 <a href="http://twitter.com/sdogruyol">Serdar</a> ile sadece back end kısmında iki kişi hayvan gibi şey yaptık. Bu hayvani proje içerisinde
-online ödeme sistemi, banka entegrasyonları, CRM entegrasyonları, cms paneli, kasa entegrasyonu gibi bir çok üçünçü parti servis var.
+online ödeme sistemi, banka entegrasyonları, CRM entegrasyonları, cms paneli, kasa entegrasyonu gibi birçok üçünçü parti servis var.
 
 Biz ruby yazmasaydık bunu 6 ayda yapamazdık. Biz ruby yazmasaydık bunu 2 kişi yapamazdık. Ayrıca bu süre boyunca tek proje üzerinde çalışmadık anladınız siz onu :)
 
@@ -47,7 +47,7 @@ Bu devasa iş bitirebilme yeteneğini hayal edin.
 Benim gibi yaptığı işte direkt sonuç görmeye odaklı biriyseniz hayat sizin için de çok zor olmalı.
 Bu zorluğu bir nebze olsa da ruby/rails yazarken aşabilirsiniz. Neden mi ? Çünkü her şey çok kısa ve hızlıca çalışır hale getirilebiliyor.
 Çok esnek bir dil olduğu için bu çalışır mı acaba böyle olabilir mi diye yazdığınız kodlar bile çalışıyor. Daha ne olsun.
-Bir şeyi yapmanın bir çok yolu var, istediğinizi seçin ve at koşturun.
+Bir şeyi yapmanın birçok yolu var, istediğinizi seçin ve at koşturun.
 
 ### Eğlene eğlene bir hal olun
 
@@ -56,7 +56,7 @@ de böyle hissedeceksiniz.
 
 ### Bilgi yumağı olun
 
-Rails öğrenmeye başlayan biri convention over configuration, don't repeat yourself, model view controller, açık kaynak, law of demeter, test gibi bir çok kavramı da 
+Rails öğrenmeye başlayan biri convention over configuration, don't repeat yourself, model view controller, açık kaynak, law of demeter, test gibi birçok kavramı da
 beraberinde duymaya başlıyor eşşek değilse öğreniyor.
 
 ### Şiir gibi kod
@@ -65,7 +65,7 @@ Rails ve ruby felsefesini kazanmış biriyseniz diğer dillerde bile olsa kötü
 
 <center> *** </center>
 
-"Ama ruby yavaş yea" gibi cümleler görmüşsünüzdür. Bunlar bir takım uydurma laflardır :D Kime göre neye göre? 
+"Ama ruby yavaş yea" gibi cümleler görmüşsünüzdür. Bunlar bir takım uydurma laflardır :D Kime göre neye göre?
 
 Türkiye'de ki hiçbir servis ve websitesi içinde ruby'nin olacağı bir çözümde scale edilemeyecek kadar yük almıyor.<small><a href="/public/kaynak_gosterisi.html">Kaynak</a></small>
 
