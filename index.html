@@ -10,10 +10,10 @@ title: Aşkın Gedik
 {% endcomment %}
 
 <div class="posts">
-  <section class="content">
+  <section>
     <ul class="listing">
       {% for post in site.posts %}
-      <li class="my-li">
+      <li>
         <span>{{ post.date | date_to_string }}</span> <a class="links" href="{{ post.url }}">{{ post.title | capitalize }}</a>
       </li>
       {% endfor %}
