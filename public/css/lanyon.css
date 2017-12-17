@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 80%;
   }
 }
 
@@ -534,7 +534,8 @@ a.pagination-item:hover {
 }
 .theme-base-13 .post a,
 .theme-base-13 .page a {
-  color: #c22e13;
+  color: black;
+  text-decoration: underline;
 }
 /*
  * Overlay sidebar

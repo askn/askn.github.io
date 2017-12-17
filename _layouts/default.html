@@ -16,30 +16,32 @@
       <div class="hero">
         <div class="masthead-title">
           <a href="/" title="Home">{{ page.title }}</a>
-            {% if page.date %}
-              <br />
-              <small>{{ page.date | date_to_string }}</small>
-            {% endif %}
         </div>
       </div>
-
-      <div class="container clearfix">
-        <a href="/" class="nav-item" >Anasayfa</a>
-        <a class="nav-item" href="/about">Hakkımda</a>
-      </div>
-
     </div>
 
 
-    <div class="container content">
+    <div class="ww container">
+    <div class="content">
       {{ content }}
     </div>
-  </div>
 
-  <div class="footer" style="background-image: url(/public/images/bg/basel.jpg);">
+    <div class="side">
+      <div class="side-title">Aşkın GEDİK</div>
+      <p>
+        <a href="http://www.protel.com.tr/">Protel Teknoloji Çözümleri</a>nde yazılım geliştirme takım lideri olarak çalışıyorum.
+      </p>
+      <p>
+        Benimle ilgili daha fazla bilgiyi
+        <a href="/about">hakkımda</a> sayfasına göz atarak öğrenebilir
+        veya <a href="https://twitter.com/askngdk">Twitter</a>,
+        <a href="https://www.facebook.com/askngdk">Facebook</a>,
+        <a href="http://github.com/askn">Github</a> ve
+        <a href="https://plus.google.com/u/0/101664352366673735839/posts">Gplus</a> üzerinden takip
+        edebilirsiniz.
+    </p>
 
-      {% include footer.html %}
-
+    <div>
   </div>
 
   {% comment %}

@@ -3,34 +3,43 @@
   font
 }
 
-.my-li {
-  border-bottom: 1px solid #e5e5e5
-}
+/* .my-li { */
+/*   border-bottom: 1px solid #e5e5e5 */
+/* } */
 
 .listing {
-  margin: 25px 0;
   padding: 0;
 }
 
 .listing li {
   list-style-type: none;
   padding: 7px 5px;
+  margin-bottom: 10px;
   font-size: 21px;
 }
 
 .listing span {
-  padding-top: 2px;
-  float: right;
   text-transform: uppercase;
-  font-size: 12px;
-  color: #999;
+  font-size: 14px;
+  color: #b9b9b9;
+  display: block;
+  padding: 5px;
+}
+
+.listing a {
+    border-bottom: 3px solid #ffba00;
+    padding: 5px;
+}
+
+a:hover {
+    text-decoration: none !important;
+    background: #ffba00;
+    color: white !important;
 }
 
 .my-container{
   margin-top: 25px;
   max-width: 730px;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -78,7 +87,7 @@
 }
 
 .nav-item {
-  border-bottom: 1px solid;
+  border-bottom: 3px solid #ffba00;
   padding: 20px;
 }
 
@@ -87,8 +96,8 @@
 }
 
 .hero {
-  background-image: url('/public/images/bg/basel.jpg');
-  background-size: cover;
+  background-image: url('/public/images/background.jpeg');
+  background-size: contain;
   background-position: center center;
   z-index: 1;
   height: 300px;
@@ -110,19 +119,29 @@
   letter-spacing: 0px;
 }
 
-.masthead-title > small {
+.pdate {
   color: white;
+  background: #ffba00;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+
+.side-title {
+  font-size: 1.25rem;
+  font-weight: 400;
+  letter-spacing: -.025rem;
 }
 
 .masthead-title > a {
   font-weight: bold;
   text-align: center;
-  background: #F6DF6A;
+  /* background: #F6DF6A;
   background: #40c4ff;
-  background: rgba(0,0,0,0.6);
+  background: rgba(0,0,0,0.6); */
+  background: #ffba00;
   color: white;
-  padding: 10px;
-  font-size: 1.5em;
+  padding: 10px 30px;
+  font-size: 2em;
   text-decoration: none;
   margin-bottom: .5rem;
   text-rendering: optimizeLegibility;
@@ -142,11 +161,12 @@
 .masthead > .container > hr {
   width: 33%;
   margin: 7px auto;
-  border-top: 2px solid #eeeeee
+  border-top: 2px solid #fd8204;
 }
 
 .footer {
   margin-top: 45px;
+  font-size: 13px;
 }
 
 .navigation {
@@ -159,14 +179,14 @@
 
 .navigation .prev {
     float: left;
-    border-bottom: 3px solid #f66a81;
+    border-bottom: 3px solid #ffba00;
     padding: 3px 5px;
     display: block;
 }
 
 .navigation .next {
     float: right;
-    border-bottom: 3px solid #f66a81;
+    border-bottom: 3px solid #ffba00;
     padding: 3px 5px;
     display: block;
 }
@@ -240,4 +260,43 @@ html {
 }
 .graphql > .highlight:first-child {
   border-right: 1px solid #e0e0e0;
+}
+
+.ww{
+  margin-top: 40px;
+}
+
+.side a {
+  background: #ffba00;
+  color: white !important;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.side {
+  padding-top: 20px;
+  font-size: 0.8em;
+  border-left: 1px solid #ffba00;
+  padding-right: 30px;
+  padding-left: 30px;
+  display: none;
+}
+
+.content {
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+@media (min-width: 56em) {
+  .side {
+    display: block;
+    float:right;
+    max-width: 30%;
+  }
+
+  .content {
+    float: left;
+    width: 70%;
+  }
 }
