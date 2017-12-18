@@ -3,6 +3,7 @@ layout: post
 title: "Yan yattı, çamura battı"
 date: 2017-09-10 17:42
 comments: true
+style: "background-image: url('/public/images/yan-yatti.jpeg')"
 ---
 
 Nedendir bilmiyorum yazıma isim düşünürken *Yan yattı, çamura battı* cümlesi aklımda belirdi. Google'da arattım. İki tanım gözüme ilişti.

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Olaylar Olaylar"
+banner: "/public/images/hakkimda.jpg"
+style: "background-image: url('/public/images/hakkimda.jpg');background-size:cover;padding-bottom:100px;padding-top:100px;"
 ---
 
 <p>Merhabalar, ben Aşkın. İstanbul'da yaşıyorum.

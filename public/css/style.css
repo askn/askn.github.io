@@ -82,29 +82,12 @@ a:hover {
   /*margin-bottom: 40px;*/
 }
 
-.nav-item {
-  border-bottom: 3px solid #ffba00;
-  padding: 20px;
-}
-
-.nav-item.active {
-  font-weight: bold;
-}
-
-.hero {
+.banner {
   background-image: url('/public/images/background.jpeg');
   background-size: contain;
   background-position: center center;
   z-index: 1;
   margin-bottom: 0rem;
-
-  min-height: 140px;
-}
-
-@media (min-width: 56em) {
-  .hero {
-    height: 300px;
-  }
 }
 
 .pdate {
@@ -149,7 +132,7 @@ a:hover {
   display: block;
 }
 
-@media (min-width: 56em) {
+@media (min-width: 32em) {
   .masthead-title {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -208,7 +191,7 @@ a:hover {
     float: right;
 }
 
-@media (min-width: 56em) {
+@media (min-width: 32em) {
   .navigation .prev {
       float: left;
       border-bottom: 3px solid #ffba00;
@@ -307,12 +290,21 @@ html {
 }
 
 .side {
-  padding-top: 20px;
-  font-size: 0.8em;
-  border-left: 1px solid #ffba00;
-  padding-right: 30px;
-  padding-left: 30px;
   display: none;
+}
+
+.mobile-menu {
+  text-align: center;
+}
+
+.nav-item {
+  border-bottom: 3px solid #ffba00;
+  font-size: 24px;
+  padding: 5px;
+}
+
+.nav-item.active {
+  font-weight: bold;
 }
 
 .content {
@@ -321,16 +313,42 @@ html {
   padding-left: 10px;
 }
 
-@media (min-width: 56em) {
+@media (min-width: 36em) {
+  .mobile-menu {
+    display: none;
+  }
+
   .side {
+    font-size: 0.8em;
     display: block;
     float:right;
     max-width: 30%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-left: 1px solid #ffba00;
+  }
+
+  .side .me {
+    display: block;
   }
 
   .content {
     float: left;
     width: 70%;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+@media (min-width: 56em) {
+  .side {
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  .content {
     padding-right: 30px;
     padding-left: 30px;
   }
