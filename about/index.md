@@ -10,7 +10,7 @@ Genel olarak yazılım geliştirme ile ilgili konularla yakından ilgileniyorum.
 Ayrıca <a href="http://www.protel.com.tr/">Protel Teknoloji Çözümleri</a>nde yazılım geliştirme takım lideri olarak çalışıyorum.
 </p><p>
 Blogumda teknik konular ile ilgili kısa paylaşımlarda bulunacak ve
-bazı fikirlerimi, hayatımda ki önemli şeyleri ufak karalamalar
+bazı fikirlerimi, hayatımdan önemli şeyleri ufak karalamalar
 şeklinde elimden geldiğince sizlere aktaracağım. (Yapamadı...)
 </p>
 
