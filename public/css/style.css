@@ -213,11 +213,19 @@ a:hover {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
     font-size: 13px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
+#post-meta #about {
+  display: flex;
+  padding: 5px 10px;
+}
+
 #post-meta img.avatar {
     height: 36px;
     width: 36px;
-    float: left;
     border-radius: 50%;
     margin: 0px;
     margin-top: 3px;
@@ -225,16 +233,13 @@ a:hover {
     box-shadow: 0 0 0 3px #fff,0 0 0 4px #eee;
 }
 
-#post-meta div span {
-    display: block;
-}
-#post-meta div {
-    margin: 0 25px 0 0;
-    float: left;
-}
-
-#sharing {
-    float: right;
+#sharing a {
+  background-color: #1b95e0;
+  color: #fff;
+  font-weight: bolder;
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 10px;
 }
 
 figure {

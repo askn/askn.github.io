@@ -7,16 +7,18 @@ layout: default
   {{ content }}
 </div>
 
-<div id="post-meta" class="clearfix">
-  <a href="http://twitter.com/askngdk">
-    <img class="avatar" src="/public/images/ben.jpg">
+<div id="post-meta">
+  <a id="about" href="http://twitter.com/askngdk">
+    <span><img class="avatar" src="/public/images/ben.jpg"></span>
     <div>
-      <span><b>Aşkın Gedik</b></span> <span>Ruby on Rails Developer</span>
+      <b>Aşkın Gedik</b>
+      <br />
+      Ruby on Rails Developer
     </div>
   </a>
 
   <section id="sharing">
-    <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{ page.title }} via @askngdk" data-size="large" data-count="none"> Yazıyı Tweet At</a>
+    <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{ page.title }} via @askngdk {{ page.url | absolute_url }}" data-size="large" data-count="none"> Yazıyı Tweet At</a>
   </section>
 </div>
 
@@ -34,37 +36,3 @@ layout: default
     {% include disqus.html %}
   </div>
 </div>
-<!---
-  <div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-  {% for post in site.related_posts limit:3 %}
-  <li>
-  <h3>
-  <a href="/{{ post.url }}">
-  {{ post.title }}
-  <small>{{ post.date | date_to_string }}</small>
-  </a>
-  </h3>
-  </li>
-  {% endfor %}
-  </ul>
-  </div>
--->
-
-<script>window.twttr = (function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0],
-t = window.twttr || {};
-if (d.getElementById(id)) return t;
-js = d.createElement(s);
-js.id = id;
-js.src = "https://platform.twitter.com/widgets.js";
-fjs.parentNode.insertBefore(js, fjs);
-
-t._e = [];
-t.ready = function(f) {
-  t._e.push(f);
-};
-
-return t;
-}(document, "script", "twitter-wjs"));</script>
