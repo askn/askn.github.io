@@ -55,7 +55,7 @@ En iyi satranç ustaları da benzer şekilde büyük ustaların oyunlarını oyn
 
 Gelişmenin sırrı kendinizi otomatik pilottan uzak tutmak ve alıştırma yaparken bilinçli olmak.
 İlk örnekteki klavye kulllanmakta gelişmek için kendinizi klavyede daha hızlı yazmaya zorlamalı ve hata yapmaya açık olmalısınız. Yine bir deneyde de insanlara
-klavye de yazabildiklerinden yüzde 10-15 daha hızlı şekilde kelimeler gösterildiğinde belli bir süre sonra uyum sağladıkları gözlenmiş.
+klavyede yazabildiklerinden yüzde 10-15 daha hızlı şekilde kelimeler gösterildiğinde belli bir süre sonra uyum sağladıkları gözlenmiş.
 
 Yüzme, cirit, koşu gibi birçok spor dalında her geçen gün rekorlar kırılıyor. Şu anki lise koşucuları geçmişteki olimpiyat rekorlarına sahipler.
 Bu durum nitelikli ve nicelikli antrenmanlar sayesinde oluşan bir durum.
