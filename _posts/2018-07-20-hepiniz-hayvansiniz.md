@@ -39,7 +39,7 @@ Varsayalım bir ülkenin başkanı oldunuz ve ülkeyi nasıl yöneteceğinize da
 
 <center>***</center>
 
-Zamanında Hanoi’de ki Fransız sömürgeci yöneticiler bir yasa çıkarıp, teslim edilen her ölü sıçan için para ödeneceğini duyurmuşlar. Amaç sıçan istilasını engellemek. Çıkarılan yasa insanların sıçan yetiştirmesine yol açmış.
+Zamanında Hanoi’deki Fransız sömürgeci yöneticiler bir yasa çıkarıp, teslim edilen her ölü sıçan için para ödeneceğini duyurmuşlar. Amaç sıçan istilasını engellemek. Çıkarılan yasa insanların sıçan yetiştirmesine yol açmış.
 1947’de Ölü Deniz parşömenleri keşfedildiğinde, arkeologlar her yeni elyazmasını getiren için bir ödül koymuşlar. Sonuç her parşömen yırtılıp bölünmüş öyle teslim edilmiş.
 
 Bir şirketin denetim kurulu hedefe ulaşıldığında yönetime prim ödeyeceğini söylerse yöneticiler şirketi kâr getirecek şekilde yönetmek yerine düşük kolay ulaşılabilir hedefler belirlemeye başlar. Buradan çıkarılacak sonuç işin içine teşvik girince ya da teşvik değişince insanların davranışlarını ne kadar çabuk ve köklü şekilde değiştirdikleridir. İkincisi ise, insanların teşvike cevap verseler de teşvikin arkasındaki amaçlara kayıtsız kalmalarıdır.
