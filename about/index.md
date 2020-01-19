@@ -7,17 +7,16 @@ style: "background-image: url('/public/images/hakkimda.jpg');background-size:cov
 
 <p>Merhabalar, ben Aşkın. İstanbul'da yaşıyorum.
 Genel olarak yazılım geliştirme ile ilgili konularla yakından ilgileniyorum.
-Ayrıca <a href="http://www.protel.com.tr/">Protel Teknoloji Çözümleri</a>nde yazılım geliştirme takım lideri olarak çalışıyorum.
+Ayrıca <a href="http://toolio.com/">Toolio</a> için çalışıyorum.
 </p><p>
 Blogumda teknik konular ile ilgili kısa paylaşımlarda bulunacak ve
 bazı fikirlerimi, hayatımdan önemli şeyleri ufak karalamalar
 şeklinde elimden geldiğince sizlere aktaracağım. (Yapamadı...)
 </p>
 
-Beni [Twitter'da](https://twitter.com/askngdk),
-[Facebook'ta](https://www.facebook.com/askngdk),
-[Github'ta](http://github.com/askn) ve
-[Gplus'ta](https://plus.google.com/u/0/101664352366673735839/posts) takip
+Beni [Twitter](https://twitter.com/askngdk),
+[Facebook](https://www.facebook.com/askngdk) ve
+[Github](http://github.com/askn) üzerinden takip
 edebilirsiniz.
 
 ### Site Hakkında
